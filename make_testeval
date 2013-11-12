@@ -1,0 +1,1 @@
+gcc -DDEBUG_EVAL -DDEBUG_EVAL_DETAILS -o testeval.exe eval.c testeval.c io.c

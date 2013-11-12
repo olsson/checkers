@@ -1,0 +1,6 @@
+./test -search starts/easydraw.wdp 10
+./test -search starts/initial.wdp 10
+./test -search starts/kings2vs1.wdp 10
+./test -search starts/kingswin.wdp 10
+./test -search starts/frazier.wdp 10
+./test -search starts/problem.wdp 10
